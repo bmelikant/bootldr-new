@@ -1,0 +1,6 @@
+*.lst
+*.bin
+*.sys
+*.img
+build/
+

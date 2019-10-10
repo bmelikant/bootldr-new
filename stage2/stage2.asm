@@ -20,8 +20,6 @@ _stage2:
 	mov sp,0x9000
 	mov bp,sp
 
-	call _clrscr16
-	
 	mov si,s_msgStageTwoLoaded
 	call _puts16
 
